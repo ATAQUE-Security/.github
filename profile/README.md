@@ -2,7 +2,7 @@
 
 # A *daptive*
 # T *hreat*
-# A *nalysis
+# A *nalysis*
 # Q *uick*
 # U *nderstanding*
 # E *ngine*
