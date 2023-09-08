@@ -20,8 +20,8 @@
 
 | Eddie Ayala | Carlos Rojas | David Siebert | Raphael Chookagian |
 |:----------------------:|:-----------------------:|:----------------------:|:----------------------:|
-| [Linkedin](https://www.linkedin.com/in/robert-gillespie-420918272//) | [Linkedin](http://linkedin.com/in/dustinhaggett/) | [Linkedin](http://www.linkedin.com/in/marcelotc) | [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) |
-| [Github](https://github.com/Puyallup253) | [Github](https://github.com/dustinhaggett/) | [Github](https://github.com/mtc2434) | [Github](https://github.com/cesarderio) |
+| [Linkedin](https://www.linkedin.com/in/eddie-ayala3/) | [Linkedin](https://www.linkedin.com/in/carlos-rojass/) | [Linkedin](http://linkedin.com/in/davidpsiebert) | [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) |
+| [Github](https://github.com/EdMandoo1) | [Github](https://github.com/carlosjorr) | [Github](https://github.com/Siebert-David) | [Github](https://github.com/cesarderio) |
 
 <br>
 
