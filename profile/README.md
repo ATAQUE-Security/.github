@@ -1,7 +1,6 @@
 ## Welcome to
 
-# A.T.A.Q.U.E
-*Security*
+# A.T.A.Q.U.E       *Security*
 
 <br>
 
