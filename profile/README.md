@@ -1,7 +1,7 @@
 ## Welcome to
 
 # A.T.A.Q.U.E
-## *Security*
+*Security*
 
 <br>
 
