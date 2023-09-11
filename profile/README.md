@@ -49,7 +49,7 @@ You'll be divided into two teams, red and blue, for the full duration of the pro
 
 ### Project Management
 
-[Trello Board]([https://trello.com/b/cQDkV4p0/401-midterm-project](https://trello.com/b/q4cb2rJl/401d8rt1))
+[Trello Board](https://trello.com/b/q4cb2rJl/401d8rt1)
 
 <br>
 
