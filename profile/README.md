@@ -1,7 +1,5 @@
 <img src="./assets/ring.png" width="250">
 
-## Welcome to
-
 # A.T.A.Q.U.E       *Security*
 
 <br>
