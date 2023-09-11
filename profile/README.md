@@ -1,6 +1,6 @@
 ## Welcome to
 
-# A * D * A * P * T * I * V * E *Security*
+# A.D.A.P.T.I.V.E   *Security*
 
 Adaptive Threat Analysis Quick Understanding Engine
 
