@@ -1,3 +1,5 @@
+![](../assets/ring.png)
+
 ## Welcome to
 
 # A.T.A.Q.U.E       *Security*
@@ -18,7 +20,7 @@ You'll be divided into two teams, red and blue, for the full duration of the pro
 
 <br>
 
-###  Team Members
+### Team Members
 
 | Eddie Ayala | Carlos Rojas | David Siebert | Raphael Chookagian |
 |:----------------------:|:-----------------------:|:----------------------:|:----------------------:|
