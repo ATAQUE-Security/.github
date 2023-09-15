@@ -29,7 +29,7 @@ You'll be divided into two teams, red and blue, for the full duration of the pro
 
 ### Presentations
 
-[Slideshow Presentation]()
+[Slideshow Presentation](https://docs.google.com/presentation/d/1U0U4HkPjTmjLndgIuii9MQT_2FryvEBxZkBfMfatCgU/edit?usp=sharing)
 
 [Video]()
 
