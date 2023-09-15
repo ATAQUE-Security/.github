@@ -2,10 +2,6 @@
 
 # A.T.A.Q.U.E       *Security*
 
-<br>
-
-### About ATAQUE Security
-
 Adaptive Threat Analysis Quick Understanding Engine
 
 <br>
@@ -49,8 +45,6 @@ Your insights are invaluable to us. Whether you're from SimCorp, an enthusiastic
 Welcome to the cutting edge of cybersecurity. Welcome to ATAQUE Security.
 
 ---
-
-<br>
 
 ### Team Members
 
